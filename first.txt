@@ -1,1 +1,1 @@
-hello how are you. This is my first commit.
+hello how are you. This is my first commit. First time i am trying to store my file in repository.
